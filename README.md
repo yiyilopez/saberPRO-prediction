@@ -38,6 +38,28 @@ saberPRO-prediction/
 │
 └── README.md                      # Este archivo
 
+📥 Cómo obtener los datos
+Los archivos de datos son muy grandes y no están incluidos en este repositorio. Para ejecutar el código:
+
+Ve a la competencia en Kaggle: UDEA/ai4eng 20252 - Pruebas Saber Pro Colombia usando este link:
+https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colombia/data
+
+Únete a la competencia
+Descarga los archivos desde la pestaña "Data":
+
+train.csv
+test.csv
+
+Coloca los archivos en la carpeta data/ de este proyecto
+
+🚀 Cómo ejecutar el proyecto
+
+Clona este repositorio
+Descarga los datos de Kaggle (ver instrucciones arriba)
+Coloca los archivos CSV en la carpeta data/
+Abre el notebook notebooks/01-exploracion.ipynb
+Ejecuta las celdas
+
 ## 🔗 Competencia
 
 **Kaggle**: UDEA/ai4eng 20252 - Pruebas Saber Pro Colombia
