@@ -34,6 +34,14 @@ Crear un modelo de Machine Learning que prediga el rendimiento global de estudia
  ┣ 📄 .gitignore
  ┗ 📄 README.md
 
+📦 saber-pro-prediction/
+│
+├── 📂 data/
+│   └── 📄sample_submission.csv
+└── 📄 01-exploracion.ipynb
+├── 📄 .gitignore
+└── 📄 README.md
+
 saberPRO-prediction/
 │
 ├── data/                          # Datos de la competencia
