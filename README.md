@@ -37,15 +37,13 @@ Crear un modelo de Machine Learning que prediga el rendimiento global de estudia
 📥 Cómo obtener los datos
 - Los archivos de datos son muy grandes y no están incluidos en este repositorio. Para ejecutar el código:
 
- - Ve a la competencia en Kaggle: UDEA/ai4eng 20252 - Pruebas Saber Pro Colombia usando este link:
-   https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colombia/data
-
- - Únete a la competencia
- - Descarga los archivos desde la pestaña "Data":
-  - train.csv
-  - test.csv
-
- - Coloca los archivos en la carpeta data/ de este proyecto
+  - Ve a la competencia en Kaggle: UDEA/ai4eng 20252 - Pruebas Saber Pro Colombia usando este link:
+    https://www.kaggle.com/competitions/udea-ai-4-eng-20252-pruebas-saber-pro-colombia/data
+  - Únete a la competencia
+  - Descarga los archivos desde la pestaña "Data":
+    - train.csv
+    - test.csv
+  - Coloca los archivos en la carpeta data/ de este proyecto
 
 🚀 Cómo ejecutar el proyecto
 
