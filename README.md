@@ -50,11 +50,19 @@ Coloca los archivos en la carpeta data/ de este proyecto
 
 🚀 Cómo ejecutar el proyecto
 
-Clona este repositorio
-Descarga los datos de Kaggle (ver instrucciones arriba)
-Coloca los archivos CSV en la carpeta data/
-Abre el notebook notebooks/01-exploracion.ipynb
-Ejecuta las celdas
+- Clona este repositorio
+- Descarga los datos de Kaggle (ver instrucciones arriba)
+- Coloca los archivos CSV en la carpeta data/
+- Abre el notebook notebooks/01-exploracion.ipynb
+- Ejecuta las celdas
+
+⚠️ **Advertencia:** 
+
+Debes tener instalado matplotlib para que el proyecto se ejecute sin problemas, en caso de no tenerlo, en la terminal utiliza el siguiente snippet:
+
+```
+pip install matplotlib
+```
 
 ## 🔗 Competencia
 
