@@ -2,17 +2,17 @@
 
 ## 👥 Equipo
 
-- **Nombre**: Andres Marín Díaz
+*Nombre*: Andres Marín Díaz
 - **Cédula**: 1001416396
 - **Programa**: Ingeniería de Sistemas
 - **Asignatura**: Modelos y Simulación de Sistemas I
 
-- **Nombre**: Darwin Andrés Tangarife Avendaño
+*Nombre*: Darwin Andrés Tangarife Avendaño
 - **Cédula**: 1017137654
 - **Programa**: Ingeniería de Sistemas
 - **Asignatura**: Modelos y Simulación de Sistemas I
 
-- **Nombre**: Yiyi Alejandra Lopez Torres
+*Nombre*: Yiyi Alejandra Lopez Torres
 - **Cédula**: 1000257988
 - **Programa**: Ingeniería de Sistemas
 - **Asignatura**: Modelos y Simulación de Sistemas I
