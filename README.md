@@ -27,11 +27,16 @@ Crear un modelo de Machine Learning que prediga el rendimiento global de estudia
 
 ## 📁 Estructura del Proyecto
 
+📦 saberPRO-prediction
+ ┣ 📂 data
+ ┃ ┗ 📄 sample_submission.csv
+ ┗ 📄 01-exploracion.ipynb
+ ┣ 📄 .gitignore
+ ┗ 📄 README.md
+
 saberPRO-prediction/
 │
 ├── data/                          # Datos de la competencia
-│   ├── train.csv                  # Datos de entrenamiento
-│   ├── test.csv                   # Datos de prueba
 │   └── sample_submission.csv      # Ejemplo de formato de entrega
 │
 └── 01-exploracion.ipynb           # Exploración inicial de datos
