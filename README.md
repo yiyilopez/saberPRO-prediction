@@ -2,7 +2,7 @@
 
 ## 👥 Equipo
 
-*Nombre*: Andres Marín Díaz
+*Nombre*: Andrea Marín Díaz
 - **Cédula**: 1001416396
 - **Programa**: Ingeniería de Sistemas
 - **Asignatura**: Modelos y Simulación de Sistemas I
