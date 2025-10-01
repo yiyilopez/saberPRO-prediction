@@ -30,31 +30,14 @@ Crear un modelo de Machine Learning que prediga el rendimiento global de estudia
 📦 saberPRO-prediction
 
  ┣ 📂 data
- 
+ | |
  ┃ ┗ 📄 sample_submission.csv
- 
+ |
  ┗ 📄 01-exploracion.ipynb
- 
+ |
  ┣ 📄 .gitignore
- 
+ |
  ┗ 📄 README.md
-
-📦 saber-pro-prediction/
-│
-├── 📂 data/
-│   └── 📄sample_submission.csv
-└── 📄 01-exploracion.ipynb
-├── 📄 .gitignore
-└── 📄 README.md
-
-saberPRO-prediction/
-│
-├── data/                          # Datos de la competencia
-│   └── sample_submission.csv      # Ejemplo de formato de entrega
-│
-└── 01-exploracion.ipynb           # Exploración inicial de datos
-│
-└── README.md                      # Este archivo
 
 📥 Cómo obtener los datos
 Los archivos de datos son muy grandes y no están incluidos en este repositorio. Para ejecutar el código:
