@@ -26,19 +26,14 @@ Este proyecto desarrolla un modelo de clasificación para predecir el rendimient
 Crear un modelo de Machine Learning que prediga el rendimiento global de estudiantes en las Pruebas Saber Pro utilizando información socioeconómica, institucional y estadística.
 
 ## 📁 Estructura del Proyecto
-
+'''
 📦 saberPRO-prediction
-
  ┣ 📂 data
- | |
  ┃ ┗ 📄 sample_submission.csv
- |
  ┗ 📄 01-exploracion.ipynb
- |
  ┣ 📄 .gitignore
- |
  ┗ 📄 README.md
-
+'''
 📥 Cómo obtener los datos
 Los archivos de datos son muy grandes y no están incluidos en este repositorio. Para ejecutar el código:
 
